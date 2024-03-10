@@ -38,3 +38,4 @@ ultralytics==8.1.18
 mediapipe==0.10.9
 rich==13.0.0
 protobuf==3.20.0
+git+https://github.com/kashif/diffusers.git@wuerstchen-v3
