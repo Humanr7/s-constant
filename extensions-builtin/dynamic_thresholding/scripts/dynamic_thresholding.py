@@ -10,7 +10,7 @@ class DynamicThresholdingForForge(scripts.Script):
     sorting_priority = 11
 
     def title(self):
-        return "DynamicThresholding 🪽"
+        return "DynamicThresholding 🦾"
 
     def show(self, is_img2img):
         # make this extension visible in both txt2img and img2img tab.

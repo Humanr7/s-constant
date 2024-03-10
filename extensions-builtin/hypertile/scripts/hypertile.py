@@ -11,7 +11,7 @@ class HyperTileForForge(scripts.Script):
     sorting_priority = 13
 
     def title(self):
-        return "HyperTile 🪽"
+        return "HyperTile 🦾"
 
     def show(self, is_img2img):
         return scripts.AlwaysVisible

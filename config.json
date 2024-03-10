@@ -270,6 +270,11 @@
     "show_gradio_deprecation_warnings": true,
     "print_hypernet_extra": false,
     "list_hidden_files": true,
+    "quicksettings_list": [
+        "sd_model_checkpoint",
+        "sd_vae",
+        "CLIP_stop_at_last_layers"
+    ],
     "disable_mmap_load_safetensors": false,
     "hide_ldm_prints": true,
     "dump_stacks_on_signal": false,

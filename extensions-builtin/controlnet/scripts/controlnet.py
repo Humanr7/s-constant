@@ -73,7 +73,7 @@ class ControlNetForForgeOfficial(scripts.Script):
         elem_id_tabname = gen_type + "_controlnet"
         default_unit = ControlNetUnit(enabled=False, module="None", model="None")
         with gr.Group(elem_id=elem_id_tabname):
-            with gr.Accordion(f"ControlNet 🪽", open=False, elem_id="controlnet",
+            with gr.Accordion(f"ControlNet 🦾", open=False, elem_id="controlnet",
                               elem_classes=["controlnet"]):
                 photopea = (
                     Photopea()

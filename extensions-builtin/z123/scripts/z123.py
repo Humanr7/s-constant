@@ -94,7 +94,7 @@ def on_ui_tabs():
                                             visible=True, height=1024, columns=4)
 
         generate_button.click(predict, inputs=ctrls, outputs=[output_gallery])
-    return [(model_block, "Zeros123", "z123")]
+    return [(model_block, "Zero123", "z123")]
 
 
 update_model_filenames()
