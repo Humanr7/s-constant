@@ -6,7 +6,7 @@ set TEMP=tmp
 set PYTHON=
 set GIT=
 set VENV_DIR=
-set COMMANDLINE_ARGS=--skip-torch-cuda-test --precision full --no-half --always-cpu
+set COMMANDLINE_ARGS=--skip-torch-cuda-test --precision full --no-half --always-cpu --theme dark
 set PYTORCH_TRACING_MODE=TORCHFX
 set USE_OPENVINO=1
 
