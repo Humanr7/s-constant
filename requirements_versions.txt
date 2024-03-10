@@ -39,3 +39,7 @@ mediapipe==0.10.9
 rich==13.0.0
 protobuf==3.20.0
 git+https://github.com/kashif/diffusers.git@wuerstchen-v3
+rembg==2.0.38
+pymatting
+pooch
+sdwi2iextender>=0.0.10
