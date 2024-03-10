@@ -11,7 +11,7 @@ class KohyaHRFixForForge(scripts.Script):
     sorting_priority = 14
 
     def title(self):
-        return "Kohya HRFix Integrated"
+        return "Kohya HRFix 🪽"
 
     def show(self, is_img2img):
         return scripts.AlwaysVisible

@@ -11,7 +11,7 @@ class MultiDiffusionForForge(scripts.Script):
     sorting_priority = 16
 
     def title(self):
-        return "MultiDiffusion Integrated"
+        return "MultiDiffusion 🪽"
 
     def show(self, is_img2img):
         # make this extension visible in both txt2img and img2img tab.

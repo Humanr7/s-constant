@@ -46,7 +46,7 @@ class FreeUForForge(scripts.Script):
     sorting_priority = 12
 
     def title(self):
-        return "FreeU Integrated"
+        return "FreeU 🪽"
 
     def show(self, is_img2img):
         # make this extension visible in both txt2img and img2img tab.

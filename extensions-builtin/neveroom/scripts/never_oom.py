@@ -12,7 +12,7 @@ class NeverOOMForForge(scripts.Script):
         self.original_vram_state = model_management.vram_state
 
     def title(self):
-        return "Never OOM Integrated"
+        return "Never OOM 🪽"
 
     def show(self, is_img2img):
         return scripts.AlwaysVisible

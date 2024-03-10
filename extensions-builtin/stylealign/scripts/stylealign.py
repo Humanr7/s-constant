@@ -13,7 +13,7 @@ class StyleAlignForForge(scripts.Script):
     sorting_priority = 17
 
     def title(self):
-        return "StyleAlign Integrated"
+        return "StyleAlign 🪽"
 
     def show(self, is_img2img):
         # make this extension visible in both txt2img and img2img tab.

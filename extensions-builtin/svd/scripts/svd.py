@@ -114,7 +114,7 @@ def on_ui_tabs():
             PasteField(height, "Size-2", api="height"),
         ]
         parameters_copypaste.add_paste_fields("svd", init_img=input_image, fields=paste_fields)
-    return [(svd_block, "SVD", "svd")]
+    return [(svd_block, "img2vid", "svd")]
 
 
 update_svd_filenames()
